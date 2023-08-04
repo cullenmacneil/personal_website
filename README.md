@@ -1,2 +1,2 @@
 # personal_website
-Original website for freshman year
+A personal website made while learning HTML, CSS, and JavaScript from my First-year at Harvard
